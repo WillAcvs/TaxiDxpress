@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797885679321",
+    "firebase_url": "https://dxpress-v2-default-rtdb.firebaseio.com",
+    "project_id": "dxpress-v2",
+    "storage_bucket": "dxpress-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797885679321:android:8587647820920cec0960c8",
+        "android_client_info": {
+          "package_name": "com.dxpress.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797885679321-vh9p2rjgbcqniqifc5cu5j1nlvlhfbca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHgRhT1SgzCNqlIBgJaAJ5P68vWDQSwgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797885679321-vh9p2rjgbcqniqifc5cu5j1nlvlhfbca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
